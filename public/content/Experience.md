@@ -1,29 +1,20 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## UBS
+- *Software Engineer - Network Automation* | Oct'20 - Present
+- ![ubs](../assets/ubs.png)
+- Tags: UBS
 - Badges:
-  - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Upkeep data integrity of Network Inventory tables by writing ETL scripts and running cron jobs
+  - Optimise queries from source databases
+  - Maintain an application that allows clients to interact with a subset of the datasets in the data warehouse
+  - Stack: ReactJS, Django, Kafka
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## Schlumberger
+- *Mechanical Engineer (Intern)* | Feb'23 - Mar'23
+- ![ubs](../assets/slb.png)
+- Tags: Schlumberger
 - Badges:
-  - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Supported SWTC’s new product development department
+  - Created CAD (Computer-Aided Design) models, assemblies and drawings
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2

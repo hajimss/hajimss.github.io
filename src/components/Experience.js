@@ -79,7 +79,7 @@ export default function Experience({ color }) {
                     <CardHeader>
                       <Flex justifyContent="space-between">
                         <HStack>
-                          <Image src={exp.image} h={50} />
+                          <Image src={exp.image} h={50} backgroundColor='white' />
                           <Box px={2} align="left">
                             <Text fontWeight={600}>{exp.company}</Text>
                             <Text>{exp.position}</Text>

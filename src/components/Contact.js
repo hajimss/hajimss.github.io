@@ -7,6 +7,7 @@ import {
   HStack,
   Heading,
   Center,
+  Button
 } from "@chakra-ui/react";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import ProfileArray from "./ProfileArray";
@@ -22,6 +23,10 @@ export default function Contact({ color }) {
   const email = () => {
     window.open(`mailto:${profile.email}`, "_blank", "noreferrer,noopener");
   };
+  const resume = () => {
+    window.open('../assets/Hazim_Sulaiman_Resume.pdf', "_blank");
+  };
+  
   return (
     <>
       <Container maxW={"3xl"} id="contact">
@@ -54,6 +59,21 @@ export default function Contact({ color }) {
                 <FaGithub onClick={github} size={28} />
                 <FaEnvelope onClick={email} size={28} />
               </HStack>
+            </Center>
+            <Center>
+              <Button
+                colorScheme={"blue"}
+                fontSize={"xl"}
+                rounded={"full"}
+                px={6}
+                bg={`${color}.400`}
+                _hover={{
+                  bg: `${color}.500`,
+                }}
+                onClick={resume}
+              >
+                Resume
+              </Button>
             </Center>
           </Stack>
         </Stack>

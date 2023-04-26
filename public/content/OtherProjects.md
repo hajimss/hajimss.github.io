@@ -1,23 +1,20 @@
-## Project 1
-Description
-- Tags: Category 1
+## FakeTube
+A YouTube clone using the youtube API
+- Tags: FakeTube
 - Badges:
-  - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://hajimss.github.io/faketube/]
 
-## Project 2
-Description
-- Tags: Category 2
+## React Pics
+A site to search for beautiful images using the Unsplash API
+- Tags: React-Pics
 - Badges:
-  - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://hajimss.github.io/react-pics/]
 
-## Project 3
-Description
-- Tags: Category 3
+## Calculator
+It's a calculator
+- Tags: Calculator
 - Badges:
-  - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://hajimss.github.io/calculator/]
