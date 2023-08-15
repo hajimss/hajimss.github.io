@@ -24,7 +24,7 @@ export default function Contact({ color }) {
     window.open(`mailto:${profile.email}`, "_blank", "noreferrer,noopener");
   };
   const resume = () => {
-    window.open('../assets/Hazim_Sulaiman_Resume.pdf', "_blank");
+    window.open('../assets/Resume.pdf', "_blank");
   };
   
   return (
