@@ -7,7 +7,7 @@ A website for Fantasy Premier League players to see their performance in charts 
   - Link [https://fpl-viz.web.app/]
 
 ## Wacko Reco
-Had some fun using Spotify's API and used the recommendation endpoint to recommend users a playlist based off the seeds and metrics that they had chosen.
+Utilised the Spotify API to create a web app that recommends users a playlist based off the input seeds and metrics fed to the recommendation endpoint.
 - ![600x200](../assets/wacko.png)
 - Tags: Category 2
 - Badges:
